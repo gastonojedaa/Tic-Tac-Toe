@@ -19,3 +19,4 @@ export const WinnerModal = ({winner, resetGame}) => {
     </>
   );
 };
+
